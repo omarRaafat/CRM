@@ -1,0 +1,318 @@
+----------------------------------------
+/var/log/nginx/error.log
+----------------------------------------
+2022/10/10 09:18:01 [warn] 17722#17722: *4653 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/4/31/0000002314 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:18:06 [warn] 17722#17722: *4655 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/5/31/0000002315 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:18:16 [warn] 17722#17722: *4657 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/6/31/0000002316 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:18:21 [warn] 17722#17722: *4659 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/7/31/0000002317 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:18:31 [warn] 17722#17722: *4661 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/8/31/0000002318 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:18:36 [warn] 17722#17722: *4663 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/9/31/0000002319 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:18:46 [warn] 17722#17722: *4665 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/0/32/0000002320 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:18:49 [warn] 17722#17722: *4667 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/1/32/0000002321 while reading upstream, client: 10.173.0.77, server: , request: "GET /.env HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "54.225.138.138"
+2022/10/10 09:18:51 [warn] 17722#17722: *4669 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/2/32/0000002322 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:19:01 [warn] 17722#17722: *4671 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/3/32/0000002323 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:19:06 [warn] 17722#17722: *4673 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/4/32/0000002324 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:19:17 [warn] 17722#17722: *4675 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/5/32/0000002325 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:19:21 [warn] 17722#17722: *4677 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/6/32/0000002326 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:19:32 [warn] 17722#17722: *4679 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/7/32/0000002327 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:19:36 [warn] 17722#17722: *4681 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/8/32/0000002328 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:19:47 [warn] 17722#17722: *4683 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/9/32/0000002329 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:19:51 [warn] 17722#17722: *4685 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/0/33/0000002330 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:20:02 [warn] 17722#17722: *4687 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/1/33/0000002331 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:20:06 [warn] 17722#17722: *4689 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/2/33/0000002332 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:20:17 [warn] 17722#17722: *4691 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/3/33/0000002333 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:20:21 [warn] 17722#17722: *4693 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/4/33/0000002334 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:20:32 [warn] 17722#17722: *4695 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/5/33/0000002335 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:20:36 [warn] 17722#17722: *4697 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/6/33/0000002336 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:20:47 [warn] 17722#17722: *4699 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/7/33/0000002337 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:20:51 [warn] 17722#17722: *4701 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/8/33/0000002338 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:21:02 [warn] 17722#17722: *4703 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/9/33/0000002339 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:21:06 [warn] 17722#17722: *4705 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/0/34/0000002340 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:21:17 [warn] 17722#17722: *4707 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/1/34/0000002341 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:21:20 [warn] 17722#17722: *4709 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/2/34/0000002342 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "${ip}"
+2022/10/10 09:21:21 [warn] 17722#17722: *4711 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/3/34/0000002343 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:21:32 [warn] 17722#17722: *4713 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/4/34/0000002344 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:21:36 [warn] 17722#17722: *4715 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/5/34/0000002345 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:21:47 [warn] 17722#17722: *4717 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/6/34/0000002346 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:21:51 [warn] 17722#17722: *4719 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/7/34/0000002347 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:22:02 [warn] 17722#17722: *4721 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/8/34/0000002348 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:22:06 [warn] 17722#17722: *4723 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/9/34/0000002349 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:22:17 [warn] 17722#17722: *4725 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/0/35/0000002350 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:22:21 [warn] 17722#17722: *4727 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/1/35/0000002351 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:22:32 [warn] 17722#17722: *4729 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/2/35/0000002352 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:22:36 [warn] 17722#17722: *4731 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/3/35/0000002353 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:22:47 [warn] 17722#17722: *4733 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/4/35/0000002354 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:22:51 [warn] 17722#17722: *4735 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/5/35/0000002355 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:23:02 [warn] 17722#17722: *4737 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/6/35/0000002356 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:23:06 [warn] 17722#17722: *4739 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/7/35/0000002357 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:23:17 [warn] 17722#17722: *4741 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/8/35/0000002358 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:23:21 [warn] 17722#17722: *4743 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/9/35/0000002359 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:23:32 [warn] 17722#17722: *4745 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/0/36/0000002360 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:23:36 [warn] 17722#17722: *4747 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/1/36/0000002361 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:23:47 [warn] 17722#17722: *4749 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/2/36/0000002362 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:23:51 [warn] 17722#17722: *4751 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/3/36/0000002363 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:24:02 [warn] 17722#17722: *4753 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/4/36/0000002364 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:24:06 [warn] 17722#17722: *4755 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/5/36/0000002365 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:24:17 [warn] 17722#17722: *4757 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/6/36/0000002366 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:24:21 [warn] 17722#17722: *4759 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/7/36/0000002367 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:24:32 [warn] 17722#17722: *4761 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/8/36/0000002368 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:24:36 [warn] 17722#17722: *4763 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/9/36/0000002369 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:24:47 [warn] 17722#17722: *4765 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/0/37/0000002370 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:24:51 [warn] 17722#17722: *4767 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/1/37/0000002371 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:25:02 [warn] 17722#17722: *4769 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/2/37/0000002372 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:25:06 [warn] 17722#17722: *4771 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/3/37/0000002373 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:25:17 [warn] 17722#17722: *4773 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/4/37/0000002374 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:25:21 [warn] 17722#17722: *4775 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/5/37/0000002375 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:25:32 [warn] 17722#17722: *4777 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/6/37/0000002376 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:25:36 [warn] 17722#17722: *4779 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/7/37/0000002377 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:25:47 [warn] 17722#17722: *4781 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/8/37/0000002378 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:25:51 [warn] 17722#17722: *4783 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/9/37/0000002379 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:26:02 [warn] 17722#17722: *4785 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/0/38/0000002380 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:26:06 [warn] 17722#17722: *4787 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/1/38/0000002381 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:26:17 [warn] 17722#17722: *4789 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/2/38/0000002382 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:26:21 [warn] 17722#17722: *4791 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/3/38/0000002383 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:26:32 [warn] 17722#17722: *4793 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/4/38/0000002384 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:26:36 [warn] 17722#17722: *4795 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/5/38/0000002385 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:26:47 [warn] 17722#17722: *4797 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/6/38/0000002386 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:26:51 [warn] 17722#17722: *4799 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/7/38/0000002387 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:27:02 [warn] 17722#17722: *4801 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/8/38/0000002388 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:27:06 [warn] 17722#17722: *4803 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/9/38/0000002389 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:27:17 [warn] 17722#17722: *4805 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/0/39/0000002390 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:27:21 [warn] 17722#17722: *4807 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/1/39/0000002391 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:27:32 [warn] 17722#17722: *4809 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/2/39/0000002392 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:27:36 [warn] 17722#17722: *4811 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/3/39/0000002393 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:27:47 [warn] 17722#17722: *4813 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/4/39/0000002394 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:27:51 [warn] 17722#17722: *4815 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/5/39/0000002395 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:28:02 [warn] 17722#17722: *4817 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/6/39/0000002396 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:28:06 [warn] 17722#17722: *4819 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/7/39/0000002397 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:28:17 [warn] 17722#17722: *4821 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/8/39/0000002398 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:28:21 [warn] 17722#17722: *4823 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/9/39/0000002399 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:28:32 [warn] 17722#17722: *4825 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/0/40/0000002400 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:28:36 [warn] 17722#17722: *4827 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/1/40/0000002401 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:28:47 [warn] 17722#17722: *4829 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/2/40/0000002402 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:28:51 [warn] 17722#17722: *4831 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/3/40/0000002403 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:29:02 [warn] 17722#17722: *4833 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/4/40/0000002404 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:29:06 [warn] 17722#17722: *4835 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/5/40/0000002405 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:29:17 [warn] 17722#17722: *4837 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/6/40/0000002406 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:29:21 [warn] 17722#17722: *4839 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/7/40/0000002407 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:29:32 [warn] 17722#17722: *4841 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/8/40/0000002408 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:29:36 [warn] 17722#17722: *4843 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/9/40/0000002409 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:29:47 [warn] 17722#17722: *4845 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/0/41/0000002410 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:29:51 [warn] 17722#17722: *4847 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/1/41/0000002411 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:30:02 [warn] 17722#17722: *4849 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/2/41/0000002412 while reading upstream, client: 10.173.0.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+2022/10/10 09:30:06 [warn] 17722#17722: *4851 an upstream response is buffered to a temporary file /var/lib/nginx/tmp/fastcgi/3/41/0000002413 while reading upstream, client: 10.173.10.77, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php-fpm/www.sock:", host: "10.173.22.85"
+
+
+----------------------------------------
+/var/log/eb-engine.log
+----------------------------------------
+2022/10/10 04:32:11.817087 [INFO] Procfile not found. Generating default rsyslog config
+2022/10/10 04:32:11.818908 [INFO] Running command /bin/sh -c systemctl restart rsyslog.service
+2022/10/10 04:32:11.868087 [INFO] Executing instruction: PostBuildEbExtension
+2022/10/10 04:32:11.868113 [INFO] Starting executing the config set Infra-EmbeddedPostBuild.
+2022/10/10 04:32:11.868127 [INFO] Running command /bin/sh -c /opt/aws/bin/cfn-init -s arn:aws:cloudformation:us-east-1:658523032363:stack/awseb-e-nmhcdfqmyt-stack/95f6d320-0707-11ed-a451-0e27cf8fb4a9 -r AWSEBAutoScalingGroup --region us-east-1 --configsets Infra-EmbeddedPostBuild
+2022/10/10 04:32:12.310908 [INFO] Finished executing the config set Infra-EmbeddedPostBuild.
+
+2022/10/10 04:32:12.310943 [INFO] Executing instruction: CleanEbExtensions
+2022/10/10 04:32:12.311075 [INFO] Cleaned ebextensions subdirectories from app staging directory.
+2022/10/10 04:32:12.311082 [INFO] Executing instruction: RunAppDeployPreDeployHooks
+2022/10/10 04:32:12.311094 [INFO] Executing platform hooks in .platform/hooks/predeploy/
+2022/10/10 04:32:12.311111 [INFO] The dir .platform/hooks/predeploy/ does not exist
+2022/10/10 04:32:12.311114 [INFO] Finished running scripts in /var/app/staging/.platform/hooks/predeploy
+2022/10/10 04:32:12.311120 [INFO] Executing instruction: stop X-Ray
+2022/10/10 04:32:12.311124 [INFO] stop X-Ray ...
+2022/10/10 04:32:12.311134 [INFO] Running command /bin/sh -c systemctl show -p PartOf xray.service
+2022/10/10 04:32:12.317693 [WARN] stopProcess Warning: process xray is not registered 
+2022/10/10 04:32:12.317712 [INFO] Running command /bin/sh -c systemctl stop xray.service
+2022/10/10 04:32:12.325812 [INFO] Executing instruction: stop proxy
+2022/10/10 04:32:12.325830 [INFO] Running command /bin/sh -c systemctl show -p PartOf httpd.service
+2022/10/10 04:32:12.333271 [WARN] deregisterProcess Warning: process httpd is not registered, skipping...
+
+2022/10/10 04:32:12.333292 [INFO] Running command /bin/sh -c systemctl show -p PartOf nginx.service
+2022/10/10 04:32:12.337790 [INFO] Running command /bin/sh -c systemctl is-active nginx.service
+2022/10/10 04:32:12.341241 [INFO] Running command /bin/sh -c systemctl show -p PartOf nginx.service
+2022/10/10 04:32:12.345377 [INFO] Running command /bin/sh -c systemctl stop nginx.service
+2022/10/10 04:32:12.371577 [INFO] Running command /bin/sh -c systemctl disable nginx.service
+2022/10/10 04:32:12.465311 [INFO] Running command /bin/sh -c systemctl daemon-reload
+2022/10/10 04:32:12.569366 [INFO] Running command /bin/sh -c systemctl reset-failed
+2022/10/10 04:32:12.573555 [INFO] Executing instruction: stop php-fpm
+2022/10/10 04:32:12.573573 [INFO] Running command /bin/sh -c systemctl show -p PartOf php-fpm.service
+2022/10/10 04:32:12.578114 [INFO] Running command /bin/sh -c systemctl stop php-fpm.service
+2022/10/10 04:32:12.615414 [INFO] Executing instruction: FlipApplication
+2022/10/10 04:32:12.615429 [INFO] Removing /var/app/current/ if it exists
+2022/10/10 04:32:13.879354 [INFO] Renaming /var/app/staging/ to /var/app/current/
+2022/10/10 04:32:13.879449 [INFO] create soft link from /var/app/current/ to /var/www/html
+2022/10/10 04:32:13.879472 [INFO] Executing instruction: start X-Ray
+2022/10/10 04:32:13.879479 [INFO] X-Ray is not enabled.
+2022/10/10 04:32:13.879483 [INFO] Executing instruction: start php-fpm
+2022/10/10 04:32:13.879663 [INFO] Running command /bin/sh -c systemctl show -p PartOf php-fpm.service
+2022/10/10 04:32:13.885457 [WARN] Warning: process php-fpm is already registered...
+Deregistering the process ...
+2022/10/10 04:32:13.885476 [INFO] Running command /bin/sh -c systemctl show -p PartOf php-fpm.service
+2022/10/10 04:32:13.890886 [INFO] Running command /bin/sh -c systemctl is-active php-fpm.service
+2022/10/10 04:32:13.894585 [INFO] Running command /bin/sh -c systemctl disable php-fpm.service
+2022/10/10 04:32:13.989519 [INFO] Running command /bin/sh -c systemctl daemon-reload
+2022/10/10 04:32:14.089131 [INFO] Running command /bin/sh -c systemctl reset-failed
+2022/10/10 04:32:14.105553 [INFO] Running command /bin/sh -c systemctl daemon-reload
+2022/10/10 04:32:14.192751 [INFO] Running command /bin/sh -c systemctl reset-failed
+2022/10/10 04:32:14.197098 [INFO] Running command /bin/sh -c systemctl show -p PartOf php-fpm.service
+2022/10/10 04:32:14.202350 [INFO] Running command /bin/sh -c systemctl is-active php-fpm.service
+2022/10/10 04:32:14.205783 [INFO] Running command /bin/sh -c systemctl start php-fpm.service
+2022/10/10 04:32:14.514139 [INFO] Executing instruction: start proxy with new configuration
+2022/10/10 04:32:14.514169 [INFO] Running command /bin/sh -c /usr/sbin/nginx -t -c /var/proxy/staging/nginx/nginx.conf
+2022/10/10 04:32:14.532012 [INFO] nginx: the configuration file /var/proxy/staging/nginx/nginx.conf syntax is ok
+nginx: configuration file /var/proxy/staging/nginx/nginx.conf test is successful
+
+2022/10/10 04:32:14.532297 [INFO] Running command /bin/sh -c cp -rp /var/proxy/staging/nginx/* /etc/nginx
+2022/10/10 04:32:14.534628 [INFO] Running command /bin/sh -c systemctl show -p PartOf nginx.service
+2022/10/10 04:32:14.543057 [INFO] Running command /bin/sh -c systemctl daemon-reload
+2022/10/10 04:32:14.640957 [INFO] Running command /bin/sh -c systemctl reset-failed
+2022/10/10 04:32:14.645184 [INFO] Running command /bin/sh -c systemctl show -p PartOf nginx.service
+2022/10/10 04:32:14.650505 [INFO] Running command /bin/sh -c systemctl is-active nginx.service
+2022/10/10 04:32:14.654032 [INFO] Running command /bin/sh -c systemctl start nginx.service
+2022/10/10 04:32:14.689663 [INFO] Executing instruction: configureSqsd
+2022/10/10 04:32:14.689677 [INFO] This is a web server environment instance, skip configure sqsd daemon ...
+2022/10/10 04:32:14.689682 [INFO] Executing instruction: startSqsd
+2022/10/10 04:32:14.689686 [INFO] This is a web server environment instance, skip start sqsd daemon ...
+2022/10/10 04:32:14.689691 [INFO] Executing instruction: Track pids in healthd
+2022/10/10 04:32:14.689695 [INFO] This is an enhanced health env...
+2022/10/10 04:32:14.689712 [INFO] Running command /bin/sh -c systemctl show -p ConsistsOf aws-eb.target | cut -d= -f2
+2022/10/10 04:32:14.696519 [INFO] cfn-hup.service nginx.service php-fpm.service healthd.service
+
+2022/10/10 04:32:14.696538 [INFO] Running command /bin/sh -c systemctl show -p ConsistsOf eb-app.target | cut -d= -f2
+2022/10/10 04:32:14.701297 [INFO] 
+
+2022/10/10 04:32:14.701440 [INFO] Executing instruction: RunAppDeployPostDeployHooks
+2022/10/10 04:32:14.701453 [INFO] Executing platform hooks in .platform/hooks/postdeploy/
+2022/10/10 04:32:14.701469 [INFO] The dir .platform/hooks/postdeploy/ does not exist
+2022/10/10 04:32:14.701473 [INFO] Finished running scripts in /var/app/current/.platform/hooks/postdeploy
+2022/10/10 04:32:14.701479 [INFO] Executing cleanup logic
+2022/10/10 04:32:14.701569 [INFO] CommandService Response: {"status":"SUCCESS","api_version":"1.0","results":[{"status":"SUCCESS","msg":"Engine execution has succeeded.","returncode":0,"events":[{"msg":"Instance deployment: You included a 'vendor' folder in your source bundle. The deployment ignored 'composer.json' and didn't install Composer dependencies.","timestamp":1665376330128,"severity":"INFO"},{"msg":"Instance deployment completed successfully.","timestamp":1665376334701,"severity":"INFO"}]}]}
+
+2022/10/10 04:32:14.701727 [INFO] Platform Engine finished execution on command: app-deploy
+
+2022/10/10 09:30:10.367933 [INFO] Starting...
+2022/10/10 09:30:10.367976 [INFO] Starting EBPlatform-PlatformEngine
+2022/10/10 09:30:10.368874 [INFO] reading event message file
+2022/10/10 09:30:10.369464 [INFO] Engine received EB command cfn-hup-exec
+
+2022/10/10 09:30:10.458971 [INFO] Running command /bin/sh -c /opt/aws/bin/cfn-get-metadata -s arn:aws:cloudformation:us-east-1:658523032363:stack/awseb-e-nmhcdfqmyt-stack/95f6d320-0707-11ed-a451-0e27cf8fb4a9 -r AWSEBAutoScalingGroup --region us-east-1
+2022/10/10 09:30:10.784904 [INFO] Running command /bin/sh -c /opt/aws/bin/cfn-get-metadata -s arn:aws:cloudformation:us-east-1:658523032363:stack/awseb-e-nmhcdfqmyt-stack/95f6d320-0707-11ed-a451-0e27cf8fb4a9 -r AWSEBBeanstalkMetadata --region us-east-1
+2022/10/10 09:30:11.103751 [INFO] checking whether command tail-log is applicable to this instance...
+2022/10/10 09:30:11.103767 [INFO] this command is applicable to the instance, thus instance should execute command
+2022/10/10 09:30:11.103772 [INFO] Engine command: (tail-log)
+
+2022/10/10 09:30:11.135974 [INFO] Executing instruction: GetTailLogs
+2022/10/10 09:30:11.135997 [INFO] Tail Logs...
+2022/10/10 09:30:11.138261 [INFO] Running command /bin/sh -c tail -n 100 /var/log/nginx/error.log
+2022/10/10 09:30:11.153139 [INFO] Running command /bin/sh -c tail -n 100 /var/log/eb-engine.log
+
+
+----------------------------------------
+/var/log/eb-hooks.log
+----------------------------------------
+
+
+----------------------------------------
+/var/log/nginx/access.log
+----------------------------------------
+10.173.0.77 - - [10/Oct/2022:09:18:01 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:18:06 +0000] "GET / HTTP/1.1" 500 538316 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:18:16 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:18:21 +0000] "GET / HTTP/1.1" 500 538308 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:18:31 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:18:36 +0000] "GET / HTTP/1.1" 500 538459 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:18:46 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:18:49 +0000] "GET /.env HTTP/1.1" 500 538544 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" "162.19.196.234"
+10.173.10.77 - - [10/Oct/2022:09:18:51 +0000] "GET / HTTP/1.1" 500 538427 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:19:01 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:19:06 +0000] "GET / HTTP/1.1" 500 538355 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:19:17 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:19:21 +0000] "GET / HTTP/1.1" 500 538308 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:19:32 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:19:36 +0000] "GET / HTTP/1.1" 500 538340 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:19:47 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:19:51 +0000] "GET / HTTP/1.1" 500 538316 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:20:02 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:20:06 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:20:17 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:20:21 +0000] "GET / HTTP/1.1" 500 538308 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:20:32 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:20:36 +0000] "GET / HTTP/1.1" 500 538300 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:20:47 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:20:51 +0000] "GET / HTTP/1.1" 500 538316 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:21:02 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:21:06 +0000] "GET / HTTP/1.1" 500 538300 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:21:17 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:21:20 +0000] "GET / HTTP/1.1" 500 538268 "-" "curl/7.64.1" "162.62.191.231"
+10.173.10.77 - - [10/Oct/2022:09:21:21 +0000] "GET / HTTP/1.1" 500 538340 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:21:32 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:21:36 +0000] "GET / HTTP/1.1" 500 538300 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:21:47 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:21:51 +0000] "GET / HTTP/1.1" 500 538331 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:22:02 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:22:06 +0000] "GET / HTTP/1.1" 500 538300 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:22:17 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:22:21 +0000] "GET / HTTP/1.1" 500 538300 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:22:32 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:22:36 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:22:47 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:22:51 +0000] "GET / HTTP/1.1" 500 538302 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:23:02 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:23:06 +0000] "GET / HTTP/1.1" 500 538316 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:23:17 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:23:21 +0000] "GET / HTTP/1.1" 500 538427 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:23:32 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:23:36 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:23:47 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:23:51 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:24:02 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:24:06 +0000] "GET / HTTP/1.1" 500 538300 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:24:17 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:24:21 +0000] "GET / HTTP/1.1" 500 538427 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:24:32 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:24:36 +0000] "GET / HTTP/1.1" 500 538340 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:24:47 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:24:51 +0000] "GET / HTTP/1.1" 500 538371 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:25:02 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:25:06 +0000] "GET / HTTP/1.1" 500 538302 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:25:17 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:25:21 +0000] "GET / HTTP/1.1" 500 538347 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:25:32 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:25:36 +0000] "GET / HTTP/1.1" 500 538371 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:25:47 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:25:51 +0000] "GET / HTTP/1.1" 500 538347 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:26:02 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:26:06 +0000] "GET / HTTP/1.1" 500 538300 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:26:17 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:26:21 +0000] "GET / HTTP/1.1" 500 538349 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:26:32 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:26:36 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:26:47 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:26:51 +0000] "GET / HTTP/1.1" 500 538403 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:27:02 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:27:06 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:27:17 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:27:21 +0000] "GET / HTTP/1.1" 500 538316 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:27:32 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:27:36 +0000] "GET / HTTP/1.1" 500 538308 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:27:47 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:27:51 +0000] "GET / HTTP/1.1" 500 538347 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:28:02 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:28:06 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:28:17 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:28:21 +0000] "GET / HTTP/1.1" 500 538419 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:28:32 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:28:36 +0000] "GET / HTTP/1.1" 500 538427 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:28:47 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:28:51 +0000] "GET / HTTP/1.1" 500 538363 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:29:02 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:29:06 +0000] "GET / HTTP/1.1" 500 538316 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:29:17 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:29:21 +0000] "GET / HTTP/1.1" 500 538419 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:29:32 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:29:36 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:29:47 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:29:51 +0000] "GET / HTTP/1.1" 500 538372 "-" "ELB-HealthChecker/2.0" "-"
+10.173.0.77 - - [10/Oct/2022:09:30:02 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"
+10.173.10.77 - - [10/Oct/2022:09:30:06 +0000] "GET / HTTP/1.1" 500 538286 "-" "ELB-HealthChecker/2.0" "-"

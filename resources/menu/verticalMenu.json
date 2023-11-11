@@ -1,0 +1,116 @@
+
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard-analytics"
+    },
+ 
+    {
+      "menuHeader": "Pages"
+    },
+    {
+      "url": "/opps",
+      "name": "OPPs",
+      "icon": "menu-icon tf-icons bx bx-menu",
+      "slug": "opp-operations"
+     
+    },
+
+    {
+      "url": "/received/leads/requests",
+      "name": "Received Requests",
+      "icon": "menu-icon tf-icons bx bx-pen",
+      "slug": "opp-operations"
+     
+    },
+   
+   
+
+    {
+      "name": "Clients",
+      "icon": "menu-icon tf-icons bx bx bx-dock-top",
+      "slug": "client",
+      "submenu": [
+        {
+          "url": "/clients/add/new",
+          "name": "Add Client",
+          "slug": "add-client-basic"
+         
+        },
+        {
+          "url": "/clients/all",
+          "name": "All Clients",
+          "slug": "all-client-basic"
+         
+        }
+      ]
+    },
+
+    {
+      "name": "Contacts",
+      "icon": "menu-icon tf-icons bx bx bx-dock-top",
+      "slug": "contact",
+      "submenu": [
+        {
+          "url": "/contacts/add/new",
+          "name": "Add Contact",
+          "slug": "add-contact-basic"
+         
+        },
+        {
+          "url": "/contacts/all",
+          "name": "All Contacts",
+          "slug": "all-contact-basic"
+         
+        }
+      ]
+    },
+   
+
+    {
+      "name": "Leads",
+      "icon": "menu-icon tf-icons bx bx bx-dock-top",
+      "slug": "Leads",
+      "submenu": [
+        {
+          "url": "/leads/add/new",
+          "name": "Add Lead",
+          "slug": "add-leader-basic"
+       
+        },
+        {
+          "url": "/leads/all",
+          "name": "All Lead",
+          "slug": "all-leaders-basic"
+         
+        }
+      ]
+    },
+   
+    {
+      "name": "Account Settings",
+      "icon": "menu-icon tf-icons bx bx bx-dock-top",
+      "slug": "pages-account-settings",
+      "submenu": [
+        {
+          "url": "/pages/account-settings-account",
+          "name": "My Account",
+          "slug": "pages-account-settings-account"
+        },
+        {
+          "url": "/pages/users",
+          "name": "Panel Users",
+          "slug": "pages-account-settings-account"
+        }
+        
+      
+      ]
+    }
+   
+
+   
+  ]
+}
